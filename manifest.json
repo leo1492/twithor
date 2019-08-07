@@ -1,7 +1,7 @@
 {
 
-    "short_name": "Twitor",
-    "name": "Twittor para heroes",
+    "short_name": "Twithor",
+    "name": "Twithor para heroes",
     "start_url": "index.html",
     "background_color": "#3498db",
     "display": "standalone",
